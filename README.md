@@ -71,9 +71,8 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/must-be-the-Airconditi?label=Followers&style=flat-square&color=4a9e5c" />
-  <img src="https://img.shields.io/github/stars/must-be-the-Airconditi?label=Stars&style=flat-square&color=e44050" />
-  <img src="https://img.shields.io/github/repos/must-be-the-Airconditi?label=Repos&style=flat-square&color=1793D1" />
   <img src="https://img.shields.io/github/last-commit/must-be-the-Airconditi/mc-motd?label=Last%20commit&style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-mc--motd-e44050?style=flat-square" />
 </p>
 
 ---
