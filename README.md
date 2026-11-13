@@ -67,11 +67,13 @@
 
 → [仓库](https://github.com/must-be-the-Airconditi/mc-motd) · [下载](https://github.com/must-be-the-Airconditi/mc-motd/releases)
 
-### 📈 GitHub 统计
+### 📈 GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=must-be-the-Airconditi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=must-be-the-Airconditi&layout=compact&theme=tokyonight&hide_title=true" />
+<p>
+  <img src="https://img.shields.io/github/followers/must-be-the-Airconditi?label=Followers&style=flat-square&color=4a9e5c" />
+  <img src="https://img.shields.io/github/stars/must-be-the-Airconditi?label=Stars&style=flat-square&color=e44050" />
+  <img src="https://img.shields.io/github/repos/must-be-the-Airconditi?label=Repos&style=flat-square&color=1793D1" />
+  <img src="https://img.shields.io/github/last-commit/must-be-the-Airconditi/mc-motd?label=Last%20commit&style=flat-square" />
 </p>
 
 ---
