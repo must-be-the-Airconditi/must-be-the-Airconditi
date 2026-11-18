@@ -54,7 +54,7 @@
 
 - `motd <地址>` 终端里看彩色 MOTD 卡片
 - `motd --web` 起本地网页版
-- Java Swing 桌面版，macOS / Windows / Linux / BSD 通用
+- JavaFX 桌面版，macOS / Windows / Linux / BSD 通用
 - 支持 SRV 解析、§ 颜色码、十六进制色、代理，CLI / 网页版中英双语
 
 → [仓库](https://github.com/must-be-the-Airconditi/mc-motd) · [下载](https://github.com/must-be-the-Airconditi/mc-motd/releases)
@@ -105,7 +105,7 @@ CLI + local web UI + desktop GUI, talking the Server List Ping protocol directly
 
 - `motd <address>` — a colored MOTD card in your terminal
 - `motd --web` — a local web UI
-- Java Swing desktop app for macOS / Windows / Linux / BSD
+- JavaFX desktop app for macOS / Windows / Linux / BSD
 - SRV resolution, § color codes, hex colors, proxies; bilingual CLI / web UI
 
 → [Repository](https://github.com/must-be-the-Airconditi/mc-motd) · [Releases](https://github.com/must-be-the-Airconditi/mc-motd/releases)
